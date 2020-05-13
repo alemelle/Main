@@ -1,212 +1,438 @@
-<html><head>
- 
-  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-  <title>Página personal de Alejandro Melle Hernández</title>
-  
-  </head><body vlink="#af00af" text="#000000" link="#5600a9" bgcolor="#a6ffff" background="P%C3%A1gina%20personal%20de%20Alejandro%20Melle%20Hern%C3%A1ndez_files/a.html" alink="#ff0000"> <p>   
-          
+<!DOCTYPE HTML>
 
-<table width="100%">
-                                  <tbody>
-                                     <tr>
-                                  <td valign="middle">                  
-                                                                        
-         
+<html>
+	<head>
+		<title> </title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/jquery.scrollgress.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.slidertron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-xlarge.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
 
+		<!-- Header -->
+			<header id="header" class="skel-layers-fixed">
+			<h1><a href="index.html">HTML5 Website <span>by Html5webtemplates.co.uk</span></a></h1>	
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li>
+							<a href="" class="icon fa-angle-down">Layouts</a>
+							<ul>
+								<li><a href="left-sidebar.html">Left Sidebar</a></li>
+								<li><a href="right-sidebar.html">Right Sidebar</a></li>
+								<li><a href="no-sidebar.html">No Sidebar</a></li>
+								<li>
+									<a href="">Submenu</a>
+									<ul>
+										<li><a href="#">Option 1</a></li>
+										<li><a href="#">Option 2</a></li>
+										<li><a href="#">Option 3</a></li>
+										<li><a href="#">Option 4</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li><a href="elements.html">Elements</a></li>
+					</ul>
+				</nav>
+			</header>
 
+		<!-- Main -->
+			<section id="main" class="wrapper style1">
+				<header class="major">
+					<h2>Elements</h2>
+					<p>Faucibus neque adipiscing mi lorem semper blandit</p>
+				</header>
+				<div class="container">
+						
+					<!-- Content -->
+						<section id="content">
 
- 
-   <p></p><p></p><center>
-   <p></p><center>
-   </center><table cellpadding="15" border="0">
-    <tbody><tr>
-      <td>
-          <center>
-          <font size="6," color="black"> Página personal de </font> <p>
-           <font size="8," color="black">  Alejandro Melle Hernández </font> </p><p>
-          
-          </p></center>
-          
-      </td>
-      <td rowspan="3">
-       
-       
-      </td>
-    </tr>
-    <tr>
-   
+							<!-- Text -->
+								<section>
+									<h3>Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
 
+									<hr />
+									
+									<header>
+										<h3>Heading with a Subtitle</h3>
+										<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+									</header>
+									<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+									<header>
+										<h4>Heading with a Subtitle</h4>
+										<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+									</header>
+									<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 
-  </tr></tbody></table><font size="4"> 
-        </font><table cellpadding="8" border="6">
-    <tbody><tr>
-      <td>
-          <center>
-           <font size="5">Current  positions </font> <p>
-          </p></center>
-           <font size="4"> Professor at <a href="http://www.ucm.es/">Complutense University of Madrid</a>
- <br> <a href="http://www.mat.ucm.es/">Faculty of Mathematical Science</a><br>
-<a href="http://www.mat.ucm.es/deptos/al/"> Department of Algebra, Geometry and Topology</a><br>  
-          <font size="4"> 
-           Plaza de las Ciencias 3, 28040 Madrid, Spain. <br>
-           e-mail: <a href="mailto:amelle@mat.ucm.es"> amelle at mat.ucm.es </a></font></font><br>  
-<font size="4"><font size="4"><font size="4"><font size="4">           Office: 310-I<br>  Phone: + (34) 91 394 46 02 <br>       Fax: + (34)  91 394 46 62 <br>
+									<hr />
+									
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
 
-                 <p></p>
+									<hr />
 
-          <center>
-           <font size="5">    </font> <p>
-          </p></center>
-  
-          <p>
-          </p>
-           <font size="4"> Member of the research Institute of Interdisciplinary Mathematics <a href="http://www.mat.ucm.es/imi/"> Instituto de Matemática Interdisciplinar </a>
-IMI<br>  
-   <font size="4">  <br>
- <br>
-<b>
-      <a>
-      <font <="" font=""></font></a></b><font <="" font=""><br>
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
 
-          <font size="4"> 
-    <font size="4">           <br>   <br>   
-      </font></font></font></font><p></p></font></font></font></font></font></td>
-      <td rowspan="6">
-         <center>
-          <p> 
-            </p><p align="center"><a href="http://www.ucm.es/"><img src="P%C3%A1gina%20personal%20de%20Alejandro%20Melle%20Hern%C3%A1ndez_files/ucmlet.gif" width="160" height="280" border="0"></a> 
-          </p><p> 
-        <font <br="">
-      <font size="5"> 
-                <br>  </font> <br>
-</font></p><p align="center"><font <br=""><img src="P%C3%A1gina%20personal%20de%20Alejandro%20Melle%20Hern%C3%A1ndez_files/amelle.jpg" width="234" height="211" border=""> 
-         </font></p></center><font <br="">
-      </font></td>
-    </tr>
-    <tr>
-      <td>
-        <center> <font size="5">Fields of Research </font><p><font size="5"> </font> </p></center>
-        <font size="4">
-         </font><ul>  
-<font size="4">           <li> Algebraic geometry,  singularity theory 
-and their applications to zeta functions in algebra, arithmetic, 
-geometry and topology.  
-           </li></font></ul>
-<font size="4">        </font>
-      </td>
-    </tr>
-    <tr>
-      <td>
-       <center> <font size="5"><a href="http://www.mat.ucm.es/~amelle/publicaciones-2019.html"> Papers  </a></font><p><font size="5">
-<a href="http://www.mat.ucm.es/~amelle/publicaciones.html"> </a></font><a href="http://www.mat.ucm.es/~amelle/publicaciones.html"> </a></p></center>
-<a href="http://www.mat.ucm.es/~amelle/publicaciones.html">    <font size="4">
-         <ul>
-        
-         </ul>
-        </font>
-      </a></td>
-    </tr>
-    <tr>
-      <td>
-       <center> <font size="5">Ph.D. Students </font><p><font size="5"> </font> </p></center>
-    <font size="4">
-         </font><ul>
-<font size="4">           
-           <li>  Dr. <a href="https://www.cimat.mx/en/manuel-gonz%C3%A1lez-villa">Manuel González Villa</a>
- (other adviser : Ignacio Luengo, Univ. Complutense de Madrid),  Motivic
- Zeta Functions and Quasi-ordinary Singularities, June 2010,
-           </li>
-           
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
 
-   <li>  Dra. <a >Leire  Gorrochategui de Greorio</a>
- (Univ. Complutense de Madrid), On some conjectures in Singularity Theory (Sobre algunas conjeturas en Teoría de Singularidades),  21-November 2019,
-           </li></font><ul>
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
 
+print 'It took ' + i + ' iterations to sort the deck.';
+</code></pre>
+								</section>
 
+							<!-- Lists -->
+								<section>
+									<h3>Lists</h3>
+									<div class="row">
+										<div class="6u 12u(2)">
 
+											<h4>Unordered</h4>
+											<ul>
+												<li>Dolor pulvinar etiam magna etiam.</li>
+												<li>Sagittis adipiscing lorem eleifend.</li>
+												<li>Felis enim feugiat dolore viverra.</li>
+											</ul>
 
+											<h4>Alternate</h4>
+											<ul class="alt">
+												<li>Dolor pulvinar etiam magna etiam.</li>
+												<li>Sagittis adipiscing lorem eleifend.</li>
+												<li>Felis enim feugiat dolore viverra.</li>
+											</ul>
+											
+										</div>
+										<div class="6u 12u(2)">
+											
+											<h4>Ordered</h4>
+											<ol>
+												<li>Dolor pulvinar etiam magna etiam.</li>
+												<li>Etiam vel felis at lorem sed viverra.</li>
+												<li>Felis enim feugiat dolore viverra.</li>
+												<li>Dolor pulvinar etiam magna etiam.</li>
+												<li>Etiam vel felis at lorem sed viverra.</li>
+												<li>Felis enim feugiat dolore viverra.</li>
+											</ol>
 
+											<h4>Icons</h4>
+											<ul class="icons">
+												<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+												<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+												<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+												<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
+												<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+												<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+											</ul>
 
+										</div>
+									</div>
 
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button special">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions small">
+										<li><a href="#" class="button special small">Small</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<div class="row">
+										<div class="3u 12u(2)">
+											<ul class="actions vertical">
+												<li><a href="#" class="button special">Default</a></li>
+												<li><a href="#" class="button">Default</a></li>
+											</ul>
+										</div>
+										<div class="3u 12u(2)">
+											<ul class="actions vertical small">
+												<li><a href="#" class="button special small">Small</a></li>
+												<li><a href="#" class="button small">Small</a></li>
+											</ul>
+										</div>
+										<div class="3u 12u(2)">
+											<ul class="actions vertical">
+												<li><a href="#" class="button special fit">Default</a></li>
+												<li><a href="#" class="button fit">Default</a></li>
+											</ul>
+										</div>
+										<div class="3u 12u(2)">
+											<ul class="actions vertical small">
+												<li><a href="#" class="button special small fit">Small</a></li>
+												<li><a href="#" class="button small fit">Small</a></li>
+											</ul>
+										</div>
+									</div>
+								</section>
 
-<font size="4"> 
-        </font>
-      </td>
-    </tr>
-    <tr>
+							<!-- Table -->
+								<section>
+									<h3>Table</h3>
+									
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Something</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Nothing</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Something</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Nothing</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Something</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+									
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Something</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Nothing</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Something</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Nothing</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Something</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
 
+							<!-- Buttons -->
+								<section>
+									<h3>Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button special">Special</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button big">Big</a></li>
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions fit">
+										<li><a href="#" class="button special fit">Fit</a></li>
+										<li><a href="#" class="button fit">Fit</a></li>
+									</ul>
+									<ul class="actions fit small">
+										<li><a href="#" class="button special fit small">Fit + Small</a></li>
+										<li><a href="#" class="button fit small">Fit + Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button special icon fa-download">Icon</a></li>
+										<li><a href="#" class="button icon fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button special disabled">Special</span></li>
+										<li><span class="button disabled">Default</span></li>
+									</ul>
+								</section>
 
+							<!-- Form -->
+								<section>
+									<h3>Form</h3>
+									<form method="post" action="#">
+										<div class="row uniform">
+											<div class="6u 12u(3)">
+												<input type="text" name="name" id="name" value="" placeholder="Name" />
+											</div>
+											<div class="6u 12u(3)">
+												<input type="email" name="email" id="email" value="" placeholder="Email" />
+											</div>
+										</div>
+										<div class="row uniform">
+											<div class="12u">
+												<div class="select-wrapper">
+													<select name="category" id="category">
+														<option value="">- Category -</option>
+														<option value="1">Manufacturing</option>
+														<option value="1">Shipping</option>
+														<option value="1">Administration</option>
+														<option value="1">Human Resources</option>
+													</select>
+												</div>
+											</div>
+										</div>
+										<div class="row uniform">
+											<div class="4u 12u(2)">
+												<input type="radio" id="priority-low" name="priority" checked>
+												<label for="priority-low">Low Priority</label>
+											</div>
+											<div class="4u 12u(2)">
+												<input type="radio" id="priority-normal" name="priority">
+												<label for="priority-normal">Normal Priority</label>
+											</div>
+											<div class="4u 12u(2)">
+												<input type="radio" id="priority-high" name="priority">
+												<label for="priority-high">High Priority</label>
+											</div>
+										</div>
+										<div class="row uniform">
+											<div class="6u 12u(2)">
+												<input type="checkbox" id="copy" name="copy">
+												<label for="copy">Email me a copy of this message</label>
+											</div>
+											<div class="6u 12u(2)">
+												<input type="checkbox" id="human" name="human" checked>
+												<label for="human">I am a human and not a robot</label>
+											</div>
+										</div>
+										<div class="row uniform">
+											<div class="12u">
+												<textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
+											</div>
+										</div>
+										<div class="row uniform">
+											<div class="12u">
+												<ul class="actions">
+													<li><input type="submit" value="Send Message" /></li>
+													<li><input type="reset" value="Reset" class="alt" /></li>
+												</ul>
+											</div>
+										</div>
+									</form>
+								</section>
 
-      
-    </tr>
-    <tr>
-      <td>
-       <center> <font size="5"> Participación en proyectos y grupos de investigación vigentes </font><p><font size="5"> </font> </p></center>
-    <font size="4">
-         </font><ul>
-<font size="4">           <li>  Geometría. Topología, Álgebra y Criptografía en Singularidades y sus Aplicaciones, 
-<a href="https://www.icmat.es/research/national-grants/MTM2016-76868-C2-1-P"> Ref: MTM2016-76868-C2-1-P, </a>  del 01/01/2017 al 31/12/2020, IP's: <a href="http://www.mat.ucm.es/~pdperezg/">Pedro D. González Pérez</a> y Alejandro Melle Hernández 
-          </li>
+							<!-- Image -->
+								<section>
+									<h3>Image</h3>
+									<h4>Fit</h4>
+									<span class="image fit"><img src="images/pic07.jpg" alt="" /></span>
+									<div class="box alt">
+										<div class="row 50% uniform">
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+											<div class="4u 6u(3)"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+										</div>
+									</div>
 
-<li>  <a href="http://www.mat.ucm.es/~singular"> Grupo Singular </a> de 
-la Universidad Complutense de Madrid. Directores: Ignacio Luengo y Alejandro 
-Melle. 
-         </li>
+									<h4>Left &amp; Right</h4>
+									<p><span class="image left"><img src="images/pic08.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+									<p><span class="image right"><img src="images/pic09.jpg" alt="" /></span>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt praesent. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus felis sagittis eget. tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent.</p>
+								</section>
 
+						</section>
 
+				</div>
+			</section>
+			
+		<!-- Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
+					<li><a href="#" class="icon fa-envelope"><span class="label">Envelope</span></a></li>
+				</ul>
+				<ul class="menu">
+					<li><a href="#">FAQ</a></li>
+					<li><a href="#">Terms of Use</a></li>
+					<li><a href="#">Privacy</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+				<span class="copyright">
+			&copy; Copyright. All rights reserved. Template by <a href="http://www.html5webtemplates.co.uk">Responsive Web Templates</a>	
+				</span>
+			</footer>
 
- <li>  I am member of the <a href="http://www.imus.us.es/ACT/Red_Singular"> Red SINGULAR </a> 
-Red temática sobre singularidades y sus aplicaciones.  
-</li>
-
-
- <li>  I am member of the <a href="http://mat.uab.es/~ret/"> Red Española de Topología </a> 
-Red temática sobre topología.  
-</li>
-
- <li>  I am member of the <a href="http://www.unirioja.es/dptos/dmc/RedEACA/index.html"> Red EACA </a>  Red Temática de Cálculo Simbólico, Álgebra Computacional y Aplicaciones.  
-</li>
-
-
- <li>  I am member of the <a href="http://www.mat.ucm.es/~rgas/"> RGAS </a>  
-Red de Geometría Algebraica y Singularidades, Ref: RED2018-102583-T, IP: <a href="http://www.ub.edu/dept_matinfo/professors/miro-roig-rosa-m/"> Rosa María Miró-Roig, </a> (U. Barcelona).  
-</li>
-
-
-</font></ul>
-
-<font size="4">        </font>
-       
-      </td>
-    </tr>
-
-
-
-
-
-
-
-
-  </tbody></table>
-</center>
-<p>
-
-</p><hr size="4">
-
-<center>
-<font size="2">
-<a href="http://www.mat.ucm.es/imi/"> IMI </a> -
-<a href="http://www.mat.ucm.es/deptos/al/"> Departamento de Álgebra </a> -
-<a href="http://www.mat.ucm.es/"> Facultad de Ciencias Matemáticas</a> -
-<a href="http://www.ucm.es/">Universidad Complutense de Madrid </a>
-</font>
-</center>
-
-<hr size="2">
-
-. <br>
-Last modification: January 2017.
-
-
-</td></tr></tbody></table></p></body></html>
-
+	</body>
+</html>
